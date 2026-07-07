@@ -54,9 +54,9 @@ export const Overlay = () => {
             <span className="text-[10px] uppercase tracking-[0.2em] text-slate-500 font-bold">Pilot // Initialization</span>
           </div>
           <h1 className="font-black text-3xl uppercase text-white tracking-tight">
-            Hello, I'm <span className="text-brand-neon">Shiftlessbones</span> 😎
+            Hello, I'm <span className="text-brand-neon">Shiftlessbones</span> �
           </h1>
-          <p className="text-xs text-slate-400 mt-1 uppercase tracking-wider">Welcome to my mechatronic workspace</p>
+          <p className="text-xs text-slate-400 mt-1 uppercase tracking-wider">Welcome to my interactive 3D portfolio experience</p>
           
           <div className="mt-6 border-l border-slate-800 pl-4 space-y-3">
             <p className="text-xs text-slate-400 font-bold tracking-widest uppercase">// ARCHITECTURE_CAPABILITIES:</p>
@@ -66,7 +66,7 @@ export const Overlay = () => {
               <li>📦 <span className="text-white font-bold">DEPLOYING:</span> How to deliver</li>
             </ul>
           </div>
-          <p className="animate-bounce mt-8 text-brand-neon font-bold text-center w-full">↓ SCROLL TO INITIALIZE</p>
+          <p className="animate-bounce mt-8 text-brand-neon font-bold text-center w-full">↓ SCROLL TO EXPLORE</p>
         </Section>
 
         {/* --- SECTION 2: SKILLSETS --- */}
@@ -76,7 +76,7 @@ export const Overlay = () => {
             <span className="text-[10px] uppercase tracking-[0.2em] text-slate-500 font-bold">System // Specifications</span>
           </div>
           <h1 className="font-black text-3xl uppercase text-white tracking-tight">
-            LOADED <span className="text-brand-orange">SKILLSETS</span> 🔥
+            POWER <span className="text-brand-orange">ARSENAL</span> ⚙️
           </h1>
           <p className="text-xs text-slate-500 mt-0.5">// PS: RUNTIME PIPELINE CONTAINS ZERO TESTS</p>
           
